@@ -1,4 +1,4 @@
-### Movie-Recommender
+### whereMovie-Recommender
 
 *Recommendation systems have become increasingly popular these days. Because of their ability to assign a preference or rating to a particular item they find a broad scope of application in domains like restaurants,movie,online shopping and so on*.
 
@@ -8,11 +8,11 @@
 
 *The first steps involve the exploratory data analysis followed by finding the <u>total ratings</u> and the <u>average rating</u> for each movie in the dataset shown by the plots below.*
 
-![Total_ratings](E:\My_projects\Movie-Recommender\No._of_ratings.png)
+![Total_ratings](./No._of_ratings.png)
 
 ​                                                                *Histogram for total ratings*
 
-![average_rating](E:\My_projects\Movie-Recommender\average_rating.png)
+![average_rating](./average_rating.png)
 
 ​                                                            *Histogram for average rating*
 
@@ -20,6 +20,6 @@
 
 *The output is the list of top 10 most correlated movie with the selected movie*
 
-![output](E:\My_projects\Movie-Recommender\Output.PNG)
+![output](./Output.PNG)
 
 > *The most correlated movie as the output shows is <u>'Toy Story(1995)'</u> itself. Thus, the model is working as expected*
