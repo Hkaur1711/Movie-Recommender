@@ -1,4 +1,4 @@
-### whereMovie-Recommender
+### Movie-Recommender
 
 *Recommendation systems have become increasingly popular these days. Because of their ability to assign a preference or rating to a particular item they find a broad scope of application in domains like restaurants,movie,online shopping and so on*.
 
